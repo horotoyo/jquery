@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Jquery2</title>
+	<title>Jquery 2</title>
 	<script src="js/jquery-3.3.1.js"></script>
 	<script src="js/script2.js"></script>
 </head>
