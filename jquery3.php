@@ -22,7 +22,7 @@
 
 		<table class="table1" id="judul" >
 			<thead>
-				<th width="4.5%">No.</th>
+				<th width="4.5%">NO.</th>
 				<th width="13%">Nama</th>
 				<th width="10.5%">No. Hp</th>
 				<th width="16%">Alamat</th>
